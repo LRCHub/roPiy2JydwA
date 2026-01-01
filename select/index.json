@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Headlock",
+  "base_artist": "Imogen Heap",
+  "createdAt": "2026-01-01T14:46:18.110361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "has_synced": true,
+      "path": "select/01_Headlock_Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Headlock - Immi's Radio Mix",
+      "artist": "Imogen Heap",
+      "has_synced": false,
+      "path": "select/02_Headlock_-_Immi's_Radio_Mix_Imogen_Heap.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Headlock (Immi's Radio Mix)",
+      "artist": "Imogen Heap",
+      "has_synced": false,
+      "path": "select/03_Headlock_(Immi's_Radio_Mix)_Imogen_Heap.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "has_synced": true,
+      "path": "select/04_Headlock_Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Snail Mail",
+      "has_synced": true,
+      "path": "select/05_Headlock_Snail_Mail.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "All Saints",
+      "has_synced": false,
+      "path": "select/06_Headlock_All_Saints.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Esser",
+      "has_synced": false,
+      "path": "select/07_Headlock_Esser.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Lil Wayne feat. Rich The Kid",
+      "has_synced": true,
+      "path": "select/08_Headlock_Lil_Wayne_feat._Rich_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Lil Wayne & Rich The Kid",
+      "has_synced": true,
+      "path": "select/09_Headlock_Lil_Wayne_&_Rich_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/10_Headlock_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Headlock (High Contrast Remix)",
+      "artist": "Imogen Heap",
+      "has_synced": false,
+      "path": "select/11_Headlock_(High_Contrast_Remix)_Imogen_Heap.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Headlock Pt. 1 (Mother)",
+      "artist": "Jensen McRae",
+      "has_synced": true,
+      "path": "select/12_Headlock_Pt._1_(Mother)_Jensen_McRae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Headlock Pt. 2 (Father)",
+      "artist": "Jensen McRae",
+      "has_synced": true,
+      "path": "select/13_Headlock_Pt._2_(Father)_Jensen_McRae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Headlock Pt. 3 (Daughter)",
+      "artist": "Jensen McRae",
+      "has_synced": true,
+      "path": "select/14_Headlock_Pt._3_(Daughter)_Jensen_McRae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Cousin Stizz feat. Offset",
+      "has_synced": true,
+      "path": "select/15_Headlock_Cousin_Stizz_feat._Offset.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Headlock (feat. Offset)",
+      "artist": "Cousin Stizz",
+      "has_synced": true,
+      "path": "select/16_Headlock_(feat._Offset)_Cousin_Stizz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Sticky Fingers",
+      "has_synced": true,
+      "path": "select/17_Headlock_Sticky_Fingers.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "vowl.",
+      "has_synced": false,
+      "path": "select/18_Headlock_vowl..txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Headlock",
+      "artist": "Carnage feat. KILLY",
+      "has_synced": true,
+      "path": "select/19_Headlock_Carnage_feat._KILLY.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Headlock (feat. Killy)",
+      "artist": "Carnage",
+      "has_synced": true,
+      "path": "select/20_Headlock_(feat._Killy)_Carnage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "has_synced": false,
+      "path": "select/pl_01_Headlock_Imogen_Heap.txt"
+    }
+  ]
+}
